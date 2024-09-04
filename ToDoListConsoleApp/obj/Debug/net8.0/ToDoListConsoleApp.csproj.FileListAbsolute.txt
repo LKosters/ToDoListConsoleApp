@@ -1,0 +1,14 @@
+/Users/laurenskosters/RiderProjects/ToDoListConsoleApp/ToDoListConsoleApp/bin/Debug/net8.0/ToDoListConsoleApp
+/Users/laurenskosters/RiderProjects/ToDoListConsoleApp/ToDoListConsoleApp/bin/Debug/net8.0/ToDoListConsoleApp.deps.json
+/Users/laurenskosters/RiderProjects/ToDoListConsoleApp/ToDoListConsoleApp/bin/Debug/net8.0/ToDoListConsoleApp.runtimeconfig.json
+/Users/laurenskosters/RiderProjects/ToDoListConsoleApp/ToDoListConsoleApp/bin/Debug/net8.0/ToDoListConsoleApp.dll
+/Users/laurenskosters/RiderProjects/ToDoListConsoleApp/ToDoListConsoleApp/bin/Debug/net8.0/ToDoListConsoleApp.pdb
+/Users/laurenskosters/RiderProjects/ToDoListConsoleApp/ToDoListConsoleApp/obj/Debug/net8.0/ToDoListConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/laurenskosters/RiderProjects/ToDoListConsoleApp/ToDoListConsoleApp/obj/Debug/net8.0/ToDoListConsoleApp.AssemblyInfoInputs.cache
+/Users/laurenskosters/RiderProjects/ToDoListConsoleApp/ToDoListConsoleApp/obj/Debug/net8.0/ToDoListConsoleApp.AssemblyInfo.cs
+/Users/laurenskosters/RiderProjects/ToDoListConsoleApp/ToDoListConsoleApp/obj/Debug/net8.0/ToDoListConsoleApp.csproj.CoreCompileInputs.cache
+/Users/laurenskosters/RiderProjects/ToDoListConsoleApp/ToDoListConsoleApp/obj/Debug/net8.0/ToDoListConsoleApp.dll
+/Users/laurenskosters/RiderProjects/ToDoListConsoleApp/ToDoListConsoleApp/obj/Debug/net8.0/refint/ToDoListConsoleApp.dll
+/Users/laurenskosters/RiderProjects/ToDoListConsoleApp/ToDoListConsoleApp/obj/Debug/net8.0/ToDoListConsoleApp.pdb
+/Users/laurenskosters/RiderProjects/ToDoListConsoleApp/ToDoListConsoleApp/obj/Debug/net8.0/ToDoListConsoleApp.genruntimeconfig.cache
+/Users/laurenskosters/RiderProjects/ToDoListConsoleApp/ToDoListConsoleApp/obj/Debug/net8.0/ref/ToDoListConsoleApp.dll
